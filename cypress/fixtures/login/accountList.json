@@ -1,0 +1,17 @@
+{
+  "accounts":[
+      {
+      "_comment":"Verify Login fail with invalid userID and valid password",
+      "id":1,
+      "username": "standard_user",
+      "password": "secret",
+      "message": "Epic sadface: Username and password do not match any user in this service"
+    },
+    {
+      "_comment":"Verify Login success with valid userID and valid password",
+      "id":2,
+      "username": "standard_user",
+      "password": "secret_sauce"
+    }
+  ]
+}

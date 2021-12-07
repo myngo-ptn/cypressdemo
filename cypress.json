@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.saucedemo.com/",
+  "env": {
+    "FORMAT_DATE": "DD-MM-YYYY"
+  },
+  "chromeWebSecurity": false
+}
